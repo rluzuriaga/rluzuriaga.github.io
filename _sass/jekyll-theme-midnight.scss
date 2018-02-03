@@ -170,20 +170,20 @@ dt {
     margin: 0 auto;
     padding: 0 10px;
     background: blue;
-    margin: 6px auto;
+    margin: 5px auto;
 
     li {
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
       list-style: none;
       display: inline;
-      color: white;
+      color: rgb(0, 0, 0);
       line-height: 50px;
-      text-shadow: 0px 1px 0px rgba(0,0,0,.2);
-      font-size: 14px;
+      text-shadow: 0px 1px 0px rgba(80, 80, 80, 0.2);
+      font-size: 16px;
 
       a {
-        color: white;
+        color: rgb(0, 0, 0);
         border: 1px solid #5d910b;
         background: linear_gradient(#93bd20, #659e10);
         border-radius: 2px;
@@ -193,7 +193,7 @@ dt {
         padding: 10px 12px;
         margin-top: 6px;
         line-height:14px;
-        font-size:14px;
+        font-size:16px;
         display:inline-block;
         text-align:center;
 
@@ -206,12 +206,12 @@ dt {
       }
 
       &.fork {
-        float: left;
+        float: right;
         margin-left: 0px;
       }
 
-      &.downloads {
-        float: right;
+      &.name {
+        float: left;
         margin-left: 6px;
       }
 
@@ -219,6 +219,28 @@ dt {
         float: right;
         margin-right: 10px;
         font-size: 11px;
+      }
+    }
+
+    // a inside of nav but without green box (Used for my name at the top left)
+    a {
+      font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: normal;
+      list-style: none;
+      display: inline;
+      color: rgb(194, 194, 194);
+      line-height: 50px;
+      text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.2);
+      font-size: 32px;
+
+      &:hover {
+        color: rgb(255, 255, 255);
+        text-shadow: 0px 4px 0px rgba(0, 0, 0, 0.2);
+      }
+
+      &.name {
+        float: left;
+        margin-left: 6px;
       }
     }
   }
@@ -239,9 +261,9 @@ section {
     h1 {
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
-      font-size: 40px;
-      text-align: center;
-      line-height: 36px;
+      font-size: 30px;
+      text-align: left;
+      line-height: 32px;
     }
 
     p {
@@ -249,7 +271,7 @@ section {
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
       font-size: 18px;
-      text-align: center;
+      text-align: left;
     }
 
     .credits {
