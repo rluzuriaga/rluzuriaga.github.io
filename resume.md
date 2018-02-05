@@ -2,6 +2,8 @@
 layout: about_me_layout
 ---
 
+<!-- This keeps the title on the browser tab from changing. -->
+
 <h1>
     <li class="align-left">Resume</li>
     <li class="align-right"><a href="/">Download Resume</a></li> <!-- add file for download-->

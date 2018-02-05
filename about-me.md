@@ -2,6 +2,8 @@
 layout: about_me_layout
 ---
 
+<!-- This keeps the title on the browser tab from changing. -->
+
 # Resume
 * * *
 ## Education
@@ -16,5 +18,7 @@ layout: about_me_layout
 [More...](resume)
 
 <br><br>
-# More About Me!
+# Skills
 * * *
+## Programming
+<br>
