@@ -18,6 +18,18 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
+
+  li {
+    text-align: left;
+
+    a {
+      color:#e8e8e8;
+      margin:0 0 10px;
+      font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: normal;
+      text-align: right;
+    }
+  }
 }
 
 p, ul, ol, table, pre, dl {
@@ -154,7 +166,7 @@ dt {
 }
 
 
-#header {
+#page-header {
   z-index: 100;
   left:0;
   top: 0px;
