@@ -1,2 +1,2 @@
-# Rodrigo Luzuriaga
-## [https://rluzuriaga.github.io](rluzuriaga.github.io)
+## Rodrigo Luzuriaga Website
+[https://rluzuriaga.github.io](https://rluzuriaga.github.io)
