@@ -20,14 +20,26 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 
   li {
-    text-align: left;
+    display: inline;
 
     a {
-      color:#e8e8e8;
+      color:#bb9600;
       margin:0 0 10px;
       font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
-      text-align: right;
+      font-size: 20px;
+
+      &:hover {
+        color: #ffcc00;
+      }
+    }
+
+    &.align-left {
+      float: left;
+    }
+  
+    &.align-right {
+      float: right;
     }
   }
 }
