@@ -190,12 +190,19 @@ dt {
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
 
   nav {
+    // Gets rid of the "Visit my GitHub Page on the header
+    // That issue was making nothing appear on the header in mobile
+    @media (max-width: 480px) {
+      .fork {
+        display: none;
+      }
+    }
     max-width: 650px;
     margin: 0 auto;
     padding: 0 10px;
     background: blue;
     margin: 5px auto;
-
+  
     li {
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
@@ -205,7 +212,7 @@ dt {
       line-height: 50px;
       text-shadow: 0px 1px 0px rgba(80, 80, 80, 0.2);
       font-size: 16px;
-
+    
       a {
         color: rgb(0, 0, 0);
         border: 1px solid #5d910b;
@@ -230,6 +237,11 @@ dt {
       }
 
       &.fork {
+        float: right;
+        margin-left: 0px;
+      }
+
+      &.home {
         float: right;
         margin-left: 0px;
       }
@@ -336,19 +348,5 @@ section {
         display: block;
       }
     }
-  }
-}
-
-@media print, screen and (max-width: 480px) {
-
-  #header {
-    margin-top: -20px;
-  }
-
-  section {
-    margin-top: 40px;
-  }
-  nav {
-    display: none;
   }
 }
