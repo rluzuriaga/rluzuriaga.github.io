@@ -6,12 +6,14 @@ layout: about_me_layout
 
 <h1>
     <li class="align-left">Resume</li>
-    <li class="align-right"><a href="/">Download Resume</a></li> <!-- add file for download-->
+    <!-- <li class="align-right"><a href="/">Download Resume</a></li>  -->
+    <!-- add file for download-->
 </h1><br>
 
 * * *
 
-[Back](/about-me)
+<!-- [Back](/about-me) -->
+[Back](/)
 
 ## Education
 
@@ -74,4 +76,5 @@ layout: about_me_layout
 
 
 <br><br>
-[Back](about-me)
+<!-- [Back](about-me) -->
+[Back](/)

@@ -20,5 +20,4 @@ layout: about_me_layout
 <br><br>
 # Skills
 * * *
-## Programming
 <br>
