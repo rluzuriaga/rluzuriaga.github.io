@@ -2,6 +2,29 @@
 @import "fonts";
 @import "rouge-base16-dark.scss";
 
+
+// Projects section
+// TODO: Fix alignment for mobile
+.rluzuriaga {
+  vertical-align: text-top;
+  text-align: center;
+  width: 31%;
+  display: inline-block;
+}
+.File {
+  vertical-align: text-top;
+  text-align: center;
+  width: 31%;
+  display: inline-block;
+}
+.IntroPython {
+  vertical-align: text-top;
+  text-align: center;
+  width: 31%;
+  display: inline-block;
+}
+
+
 body {
   padding:0px 0 20px 0px;
   margin: 0px;
