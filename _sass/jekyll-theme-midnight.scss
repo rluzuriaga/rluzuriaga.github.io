@@ -4,20 +4,28 @@
 
 
 // Projects section
-// TODO: Fix alignment for mobile
 .rluzuriaga {
+  @media (max-width: 570px) {
+    display: none;
+  }
   vertical-align: text-top;
   text-align: center;
   width: 31%;
   display: inline-block;
 }
 .File {
+  @media (max-width: 570px) {
+    width: 49%;
+  }
   vertical-align: text-top;
   text-align: center;
   width: 31%;
   display: inline-block;
 }
 .IntroPython {
+  @media (max-width: 570px) {
+    width: 49%;
+  }
   vertical-align: text-top;
   text-align: center;
   width: 31%;

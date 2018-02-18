@@ -37,7 +37,6 @@ I am a technology enthusiast that loves messing with computers.<br>
 
 * * *
 
-<!-- TODO: Fix alignment for mobile -->
 <div class="rluzuriaga">
     <h3>rluzuriaga.github.io</h3>
     <p>Static site developed for GitHub pages following the Jekyll Midnight theme with my own customizations.</p>
