@@ -45,10 +45,10 @@ I am a technology enthusiast that loves messing with computers.<br>
 <div class="File">
     <h3>File Cleaner</h3>
     <p>Project originally created to organize files in external hard drives. Currently modifying to be used to quickly extract files from PC before re-imaging computers.</p>
-    <a href="https://github.com/rluzuriaga/DEV236x-Introduction-to-Python-Absolute-Beginner">View Source</a>
+    <a href="https://github.com/rluzuriaga/File_Cleanup">View Source</a>
 </div>
 <div class="IntroPython">
     <h3>Intro to Python</h3>
     <p>Python tutorial following the Microsoft course "DEV263x Introduction to Python: Absolute Beginner" hosted on EDX.</p>
-    <a href="https://github.com/rluzuriaga/File_Cleanup">View Source</a>
+    <a href="https://github.com/rluzuriaga/DEV236x-Introduction-to-Python-Absolute-Beginner">View Source</a>
 </div>
