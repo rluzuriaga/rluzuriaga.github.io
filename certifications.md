@@ -19,16 +19,46 @@ layout: about_me_layout
 
 ## Lynda
 
+### Become a Programer Learning Path
+
+#### Programming Foundations: Fundamentals
+
+* Issued: May 2016
+* Certification Authority: Lynda.com
+* License: E212D5652F22409F8EF629176FD14763
+* [View certificate](https://www.lynda.com/home/CertificateOfCompletion/PrintCertificate.aspx?lpk57=E212D5652F22409F8EF629176FD14763)
+
+#### Programming Foundations: Object-Oriented Design
+
+* Issued: August 2016
+* Certification Authority: Lynda.com
+* License: 129994C090EB4D61B2E6A678D78BE618
+* [View certificate](https://www.lynda.com/home/CertificateOfCompletion/PrintCertificate.aspx?lpk57=129994C090EB4D61B2E6A678D78BE618)
+
+#### Programming Foundations: Real-World Examples
+
+* Issued: August 2016
+* Certification Authority: Lynda.com
+* License: EE67AD316AEB4A89923B25DE7C2865DA
+* [View certificate](https://www.lynda.com/home/CertificateOfCompletion/PrintCertificate.aspx?lpk57=EE67AD316AEB4A89923B25DE7C2865DA)
+
+#### Learning Git and GitHub
+
+* Issued: August 2016
+* Certification Authority: Lynda.com
+* License: D21A06D899134C4F950D5A94BB6D0D13
+* [View certificate](https://www.lynda.com/home/CertificateOfCompletion/PrintCertificate.aspx?lpk57=D21A06D899134C4F950D5A94BB6D0D13)
+
+#### Programming Foundations: Software Quality Assurance 
+
+* Issued: September 2016
+* Certification Authority: Lynda.com
+* License: 7F500FADF79F45CA8F4B5E678486C7B5
+* [View certificate](https://www.lynda.com/home/CertificateOfCompletion/PrintCertificate.aspx?lpk57=7F500FADF79F45CA8F4B5E678486C7B5)
+
 ### Basic Installation and Configuration of Windows Server 2012
 
 * Issued: March 2017
 * Certification Authority: Lynda.com
 * License: 8B0045C585954287907D1F29F1101D0A
 * [View certiicate](https://www.lynda.com/home/CertificateOfCompletion/PrintCertificate.aspx?lpk57=8B0045C585954287907D1F29F1101D0A)
-
-### Up and Running with Git and GitHub
-
-* Issued: August 2016
-* Certification Authority: Lynda.com
-* License: D21A06D899134C4F950D5A94BB6D0D13
-* [View certificate](https://www.lynda.com/home/CertificateOfCompletion/PrintCertificate.aspx?lpk57=D21A06D899134C4F950D5A94BB6D0D13)
