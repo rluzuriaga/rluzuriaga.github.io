@@ -27,6 +27,10 @@ layout: about_me_layout
 
 * High School Diploma, June 2014
 
+### Certifications
+
+Follow this [link](certifications) to see all my certifications.
+
 <br>
 ## Work Experience
 

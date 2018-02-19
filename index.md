@@ -12,10 +12,6 @@ layout: home_layout
 
 <br><br><br>
 
-<!-- # About Me
-* * *
-I am a technology enthusiast that loves messing with computers.<br>
-[More...](about-me) -->
 # Resume
 
 * * *
@@ -23,12 +19,13 @@ I am a technology enthusiast that loves messing with computers.<br>
 ## Education
 
 ### Mt. San Antonio College
-### Whitcomb High School
-<br>
+
+* A.S. Computer Programming, anticipated June 2018
+
 ## Work Experience
 
-### Mt. San Antonio College
-### Malhotra & Malhotra Law Office
+### **Computer Facilities Assistant** | Mt. San Antonio College | March 2017 - Present
+
 [More...](resume)
 
 <br>
