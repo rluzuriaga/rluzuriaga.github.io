@@ -49,3 +49,11 @@ layout: home_layout
     <p>Python tutorial following the Microsoft course "DEV263x Introduction to Python: Absolute Beginner" hosted on EDX.</p>
     <a href="https://github.com/rluzuriaga/DEV236x-Introduction-to-Python-Absolute-Beginner">View Source</a>
 </div>
+
+<!-- <br>
+
+# Blog
+
+* * *
+
+[Front page](/blogs/blog-front-page) -->
