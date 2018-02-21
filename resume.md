@@ -29,7 +29,7 @@ layout: about_me_layout
 
 ### Certifications
 
-Follow this [link](certifications) to see all my certifications.
+[Follow this link to see all my certifications.](certifications)
 
 <br>
 ## Work Experience

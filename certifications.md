@@ -17,7 +17,16 @@ layout: about_me_layout
 * License: fb361bd279644326a379948d73b1047a
 * [View certificate](https://courses.edx.org/certificates/fb361bd279644326a379948d73b1047a)
 
+<br>
+
 ## Lynda
+
+### Basic Installation and Configuration of Windows Server 2012
+
+* Issued: March 2017
+* Certification Authority: Lynda.com
+* License: 8B0045C585954287907D1F29F1101D0A
+* [View certiicate](https://www.lynda.com/home/CertificateOfCompletion/PrintCertificate.aspx?lpk57=8B0045C585954287907D1F29F1101D0A)
 
 ### Become a Programer Learning Path
 
@@ -55,10 +64,3 @@ layout: about_me_layout
 * Certification Authority: Lynda.com
 * License: 7F500FADF79F45CA8F4B5E678486C7B5
 * [View certificate](https://www.lynda.com/home/CertificateOfCompletion/PrintCertificate.aspx?lpk57=7F500FADF79F45CA8F4B5E678486C7B5)
-
-### Basic Installation and Configuration of Windows Server 2012
-
-* Issued: March 2017
-* Certification Authority: Lynda.com
-* License: 8B0045C585954287907D1F29F1101D0A
-* [View certiicate](https://www.lynda.com/home/CertificateOfCompletion/PrintCertificate.aspx?lpk57=8B0045C585954287907D1F29F1101D0A)

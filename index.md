@@ -26,7 +26,7 @@ layout: home_layout
 
 ### **Computer Facilities Assistant** | Mt. San Antonio College | March 2017 - Present
 
-[More...](resume)
+[To view my full resume click here.](resume)
 
 <br>
 
