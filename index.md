@@ -10,7 +10,7 @@ layout: home_layout
 
 ### This website is still under development. You are welcome to browse around, but take in mind that the site will be updated multiple times a week so do come back once in a while.
 
-<br><br><br>
+<br>
 
 # Resume
 

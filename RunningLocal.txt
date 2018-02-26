@@ -1,0 +1,11 @@
+This file is only for future reference on how to run this site locally.
+
+To run this locally need to install a few packages:
+	sudo apt install ruby ruby-dev make gcc build-essential patch ruby-dev zlib1g-dev liblzma-dev
+
+	sudo gem install jekyll bundler
+
+	cd into correct folder
+	bundle install
+
+The installation may break but by adding 
