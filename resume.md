@@ -1,5 +1,5 @@
 ---
-layout: about_me_layout
+layout: resume_layout
 ---
 
 <!-- This keeps the title on the browser tab from changing. -->
