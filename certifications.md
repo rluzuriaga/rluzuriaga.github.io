@@ -16,6 +16,8 @@ layout: cert_layout
 
 * * *
 
+[Back to resume](resume)
+
 ## EDX
 
 ### Microsoft DAT201x: Querying Data with Transact-SQL
@@ -127,4 +129,6 @@ layout: cert_layout
       This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/ProgrammingFoundations_SoftwareQualityAssurance.pdf">Download PDF</a>.</p>
     </embed>
   </object>
-</div>
+</div><br>
+
+[Back to resume](resume)
