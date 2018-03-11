@@ -8,4 +8,4 @@ To run this locally need to install a few packages:
 	cd into correct folder
 	bundle install
 
-The installation may break but by adding 
+Command for running the local server can be added as an alias in the bashrc file. The command for running the local server is 'bundle exec jekyll serve'.
