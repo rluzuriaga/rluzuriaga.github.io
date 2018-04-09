@@ -38,7 +38,7 @@ layout: resume_layout
 * High School Diploma, June 2014
 
 ### Certifications
-* [To view all my certifications, click this link.](certifications)
+* [To view all my certificates, click this link.](certifications)
 
 <br>
 ## Work Experience
