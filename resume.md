@@ -38,29 +38,7 @@ layout: resume_layout
 * High School Diploma, June 2014
 
 ### Certifications
-
-#### Introduction to Computer Science Professional Certificate by Microsoft
-<ul>
-    <li>Introduction to Python: Unit 1</li>
-    <ul>
-        <li><a href="#" onclick="toggle_visibility('DEV236x');">Click to view / hide certificate details.</a></li>
-        <div id="DEV236x" style="display:none;">
-            <li>Issued: March 29, 2018</li>
-            <li>Certification Authority: Microsoft</li>
-            <li>License: 4d1794b378734bb18dfab3c16ba26391</li>
-            <object data="/PDFs/Certs/DEV236x.pdf" type="application/pdf" width="700px" height="490px">
-                <embed src="/PDFs/Certs/DEV236x.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/DEV236x.pdf">Download PDF</a>.</p>
-                </embed>
-            </object>
-        </div>
-    </ul>
-    <li>Introduction to Python: Unit 2</li>
-    <ul>
-        <li>In progress. Anticipated: May 2018</li>
-    </ul>
-</ul>
-
-[For my other certifications click this link.](certifications)
+* [To view all my certifications, click this link.](certifications)
 
 <br>
 ## Work Experience
