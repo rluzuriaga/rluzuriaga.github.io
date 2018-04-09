@@ -43,10 +43,29 @@ layout: cert_layout
                 </object>
             </div>
         </ul>
+    <li>Microsoft DAT206x: Analyzing and Visualizing Data with Excel</li>
+        <ul><li>In progress: Anticipated May 2018</li></ul>
+    <div id="DAT_ALL" style="display:none;">
+        <li>Microsoft DAT222x: Essential Statistics for Data Analysis using Excel</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DAT208x: Introduction to Python for Data Science</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DAT203.1x: Data Science Essentials</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DAT203.2x: Principles of Machine Learning</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DAT210x: Programming with Python for Data Science</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DAT203.3x: Applied Machine Learning</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft Professional Capstone : Data Science</li>
+    </div>
+    <li><a href="#" onclick="toggle_visibility('DAT_ALL');">Click to view / hide all courses in track.</a></li>
 </ul>
 
 <br>
 
+<br>
 ## Lynda
 
 ### Basic Installation and Configuration of Windows Server 2012
