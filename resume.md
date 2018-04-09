@@ -2,16 +2,6 @@
 layout: resume_layout
 ---
 
-<script type="text/javascript">
-    function toggle_visibility(Id) {
-        var e = document.getElementById(Id);
-        if(e.style.display == 'block')
-            e.style.display = 'none';
-        else
-            e.style.display = 'block';
-    }
-</script>
-
 <!-- This keeps the title on the browser tab from changing. -->
 
 <h1>
