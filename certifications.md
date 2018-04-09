@@ -14,6 +14,22 @@ layout: cert_layout
 
 [Back to resume](resume)
 
+## UC Berkeley Foundations of Data Science Professional Certificate
+* * * 
+<ul>
+    <li>BerkeleyX Data8.1x: Foundations of Data Science: Computational Thinking with Python</li>
+        <ul><li>In progress: Anticipated May 2018</li></ul>
+    <div id="DATA_ALL" style="display:none;">
+        <li>BerkeleyX Data8.2x: Foundations of Data Science: Inferential Thinking by Resampling</li>
+            <ul><li>Not started</li></ul>
+        <li>BerkeleyX Data8.3x: Foundations of Data Science: Prediction and Machine Learning</li>
+            <ul><li>Not started</li></ul>
+    </div>
+    <li><a href="#" onclick="toggle_visibility('DATA_ALL');">Click to view / hide all courses in track.</a></li>
+</ul>
+
+<br>
+
 ## Microsoft Professional Program for Data Science track
 * * *
 <ul>
@@ -65,7 +81,54 @@ layout: cert_layout
 
 <br>
 
+## Microsoft Professional Program for Entry Level Software Development track
+* * *
+<ul>
+    <li>Microsoft DEV236x: Introduction to Python: Absolute Beginner</li>
+        <ul>
+            <li><a href="#" onclick="toggle_visibility('DEV236x');">Click to view / hide certificate.</a></li>
+            <div id="DEV236x" style="display:none;">
+                <li>Issued: June 24, 2017</li>
+                <li>Certification Authority: Microsoft</li>
+                <li>License: 4d1794b378734bb18dfab3c16ba26391</li>
+                <object data="/PDFs/Certs/DEV236x.pdf" type="application/pdf" width="700px" height="490px">
+                    <embed src="/PDFs/Certs/DEV236x.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/DEV236x.pdf">Download PDF</a>.</p>
+                    </embed>
+                </object>
+            </div>
+        </ul>
+    <li>Microsoft DEV274x: Introduction to Python: Fundamentals</li>
+        <ul><li>In progress: Anticipated May 2018</li></ul>
+    <div id="DEV_ALL" style="display:none;">
+        <li>Microsoft DEV262x: Logic and Computational Thinking</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DEV284x: Designing a Technical Solution</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DEV279x: Building Interactive Prototypes using JavaScript</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DEV280x: Building Functional Prototypes using Node.js</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DEV276x: Learn to Program in Java</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DEV277x: Object Oriented Programming in Java</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DEV285x: Algorithms and Data Structures</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DEV275x: Writing Professional Code</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DEV241x: Introduction to Design Thinking</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft DIS50.1x: Introduction to Developing International Software</li>
+            <ul><li>Not started</li></ul>
+        <li>Microsoft Professional Capstone : Entry Level Software Development</li>
+    </div>
+    <li><a href="#" onclick="toggle_visibility('DEV_ALL');">Click to view / hide all courses in track.</a></li>
+</ul>
+
+<!--
 <br>
+
+
 ## Lynda
 
 ### Basic Installation and Configuration of Windows Server 2012
@@ -152,6 +215,8 @@ layout: cert_layout
         <embed src="/PDFs/Certs/ProgrammingFoundations_SoftwareQualityAssurance.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/ProgrammingFoundations_SoftwareQualityAssurance.pdf">Download PDF</a>.</p>
         </embed>
     </object>
-</div><br>
+</div>
+-->
+<br>
 
 [Back to resume](resume)
