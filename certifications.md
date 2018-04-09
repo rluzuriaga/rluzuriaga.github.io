@@ -25,7 +25,7 @@ layout: cert_layout
         <li>BerkeleyX Data8.3x: Foundations of Data Science: Prediction and Machine Learning</li>
             <ul><li>Not started</li></ul>
     </div>
-    <li><a href="#" onclick="toggle_visibility('DATA_ALL');">Click to view / hide all courses in track.</a></li>
+    <li><a href="javascript:void()" onclick="toggle_visibility('DATA_ALL');">Click to view / hide all courses in track.</a></li>
 </ul>
 
 <br>
@@ -35,7 +35,7 @@ layout: cert_layout
 <ul>
     <li>Microsoft DAT101x: Microsoft Professional Orientation: Data Science </li>
         <ul>
-            <li><a href="#" onclick="toggle_visibility('DAT101x');">Click to view / hide certificate.</a></li>
+            <li><a href="javascript:void()" onclick="toggle_visibility('DAT101x');">Click to view / hide certificate.</a></li>
             <div id="DAT101x" style="display:none;">
                 <li>Issued: June 24, 2017</li>
                 <li>Certification Authority: Microsoft</li>
@@ -48,7 +48,7 @@ layout: cert_layout
         </ul>
     <li>Microsoft DAT201x: Querying Data with Transact-SQL</li>
         <ul>
-            <li><a href="#" onclick="toggle_visibility('DAT201x');">Click to view / hide certificate.</a></li>
+            <li><a href="javascript:void()" onclick="toggle_visibility('DAT201x');">Click to view / hide certificate.</a></li>
             <div id="DAT201x" style="display:none;">
                 <li>Issued: December 19, 2017</li>
                 <li>Certification Authority: Microsoft</li>
@@ -76,7 +76,7 @@ layout: cert_layout
             <ul><li>Not started</li></ul>
         <li>Microsoft Professional Capstone : Data Science</li>
     </div>
-    <li><a href="#" onclick="toggle_visibility('DAT_ALL');">Click to view / hide all courses in track.</a></li>
+    <li><a href="javascript:void()" onclick="toggle_visibility('DAT_ALL');">Click to view / hide all courses in track.</a></li>
 </ul>
 
 <br>
@@ -86,7 +86,7 @@ layout: cert_layout
 <ul>
     <li>Microsoft DEV236x: Introduction to Python: Absolute Beginner</li>
         <ul>
-            <li><a href="#" onclick="toggle_visibility('DEV236x');">Click to view / hide certificate.</a></li>
+            <li><a href="javascript:void()" onclick="toggle_visibility('DEV236x');">Click to view / hide certificate.</a></li>
             <div id="DEV236x" style="display:none;">
                 <li>Issued: June 24, 2017</li>
                 <li>Certification Authority: Microsoft</li>
@@ -122,7 +122,7 @@ layout: cert_layout
             <ul><li>Not started</li></ul>
         <li>Microsoft Professional Capstone : Entry Level Software Development</li>
     </div>
-    <li><a href="#" onclick="toggle_visibility('DEV_ALL');">Click to view / hide all courses in track.</a></li>
+    <li><a href="javascript:void()" onclick="toggle_visibility('DEV_ALL');">Click to view / hide all courses in track.</a></li>
 </ul>
 
 <!--
