@@ -41,7 +41,7 @@ layout: cert_layout
                 <li>Certification Authority: Microsoft</li>
                 <li>License: 55ba0b41093d4d89b2d13e1a89c0de49</li>
                 <object data="/Certs/PDFs/DAT101x.pdf" type="application/pdf" width="700px" height="490px">
-                    <embed src="/Certs/PNGs/DAT101x.png" width="450px" height="250px">
+                    <embed src="/Certs/PNGs/DAT101x.png" width="350px" height="250px">
                 </object>
             </div>
         </ul>
@@ -53,7 +53,7 @@ layout: cert_layout
                 <li>Certification Authority: Microsoft</li>
                 <li>License: fb361bd279644326a379948d73b1047a</li>
                 <object data="/Certs/PDFs/DAT201x.pdf" type="application/pdf" width="700px" height="490px">
-                    <embed src="/Certs/PNGs/DAT201x.png" width="450px" height="250px">
+                    <embed src="/Certs/PNGs/DAT201x.png" width="350px" height="250px">
                 </object>
             </div>
         </ul>
@@ -90,7 +90,7 @@ layout: cert_layout
                 <li>Certification Authority: Microsoft</li>
                 <li>License: 4d1794b378734bb18dfab3c16ba26391</li>
                 <object data="/Certs/PDFs/DEV236x.pdf" type="application/pdf" width="700px" height="490px">
-                    <embed src="/Certs/PNGs/DEV236x.png" width="450px" height="250px">
+                    <embed src="/Certs/PNGs/DEV236x.png" width="350px" height="250px">
                 </object>
             </div>
         </ul>
