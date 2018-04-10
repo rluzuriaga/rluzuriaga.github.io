@@ -40,9 +40,8 @@ layout: cert_layout
                 <li>Issued: June 24, 2017</li>
                 <li>Certification Authority: Microsoft</li>
                 <li>License: 55ba0b41093d4d89b2d13e1a89c0de49</li>
-                <object data="/PDFs/Certs/DAT101x.pdf" type="application/pdf" width="700px" height="490px">
-                    <embed src="/PDFs/Certs/DAT101x.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/DAT101x.pdf">Download PDF</a>.</p>
-                    </embed>
+                <object data="/Certs/PDFs/DAT101x.pdf" type="application/pdf" width="700px" height="490px">
+                    <embed src="/Certs/PNGs/DAT101x.png"></embed>
                 </object>
             </div>
         </ul>
@@ -53,9 +52,8 @@ layout: cert_layout
                 <li>Issued: December 19, 2017</li>
                 <li>Certification Authority: Microsoft</li>
                 <li>License: fb361bd279644326a379948d73b1047a</li>
-                <object data="/PDFs/Certs/DAT201x.pdf" type="application/pdf" width="700px" height="490px">
-                    <embed src="/PDFs/Certs/DAT201x.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/DAT201x.pdf">Download PDF</a>.</p>
-                    </embed>
+                <object data="/Certs/PDFs/DAT201x.pdf" type="application/pdf" width="700px" height="490px">
+                    <embed src="/Certs/PNGs/DAT201x.png"></embed>
                 </object>
             </div>
         </ul>
@@ -91,9 +89,8 @@ layout: cert_layout
                 <li>Issued: June 24, 2017</li>
                 <li>Certification Authority: Microsoft</li>
                 <li>License: 4d1794b378734bb18dfab3c16ba26391</li>
-                <object data="/PDFs/Certs/DEV236x.pdf" type="application/pdf" width="700px" height="490px">
-                    <embed src="/PDFs/Certs/DEV236x.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/DEV236x.pdf">Download PDF</a>.</p>
-                    </embed>
+                <object data="/Certs/PDFs/DEV236x.pdf" type="application/pdf" width="700px" height="490px">
+                    <embed src="/Certs/PNGs/DEV236x.png"></embed>
                 </object>
             </div>
         </ul>
@@ -137,8 +134,8 @@ layout: cert_layout
                 <li>Issued: May 2016</li>
                 <li>Certification Authority: Lynda.com</li>
                 <li>License: E212D5652F22409F8EF629176FD14763</li>
-                <object data="/PDFs/Certs/ProgrammingFoundations_Fundamentals.pdf" type="application/pdf" width="700px" height="515px">
-                    <embed src="/PDFs/Certs/ProgrammingFoundations_Fundamentals.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/ProgrammingFoundations_Fundamentals.pdf">Download PDF</a>.</p>
+                <object data="/Certs/PDFs/ProgrammingFoundations_Fundamentals.pdf" type="application/pdf" width="700px" height="515px">
+                    <embed src="/Certs/PDFs/ProgrammingFoundations_Fundamentals.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/Certs/PDFs/ProgrammingFoundations_Fundamentals.pdf">Download PDF</a>.</p>
                     </embed>
                 </object>
             </div>
@@ -150,8 +147,8 @@ layout: cert_layout
                 <li>Issued: August 2016</li>
                 <li>Certification Authority: Lynda.com</li>
                 <li>License: 129994C090EB4D61B2E6A678D78BE618</li>
-                <object data="/PDFs/Certs/ProgrammingFoundations_Object-OrientedDesign.pdf" type="application/pdf" width="700px" height="515px">
-                    <embed src="/PDFs/Certs/ProgrammingFoundations_Object-OrientedDesign.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/ProgrammingFoundations_Object-OrientedDesign.pdf">Download PDF</a>.</p>
+                <object data="/Certs/PDFs/ProgrammingFoundations_Object-OrientedDesign.pdf" type="application/pdf" width="700px" height="515px">
+                    <embed src="/Certs/PDFs/ProgrammingFoundations_Object-OrientedDesign.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/Certs/PDFs/ProgrammingFoundations_Object-OrientedDesign.pdf">Download PDF</a>.</p>
                     </embed>
                 </object>
             </div>
@@ -163,8 +160,8 @@ layout: cert_layout
                 <li>Issued: August 2016</li>
                 <li>Certification Authority: Lynda.com</li>
                 <li>License: EE67AD316AEB4A89923B25DE7C2865DA</li>
-                <object data="/PDFs/Certs/ProgrammingFoundations_Real-WorldExamples.pdf" type="application/pdf" width="700px" height="515px">
-                    <embed src="/PDFs/Certs/ProgrammingFoundations_Real-WorldExamples.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/ProgrammingFoundations_Real-WorldExamples.pdf">Download PDF</a>.</p>
+                <object data="/Certs/PDFs/ProgrammingFoundations_Real-WorldExamples.pdf" type="application/pdf" width="700px" height="515px">
+                    <embed src="/Certs/PDFs/ProgrammingFoundations_Real-WorldExamples.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/Certs/PDFs/ProgrammingFoundations_Real-WorldExamples.pdf">Download PDF</a>.</p>
                     </embed>
                 </object>
             </div>
@@ -176,8 +173,8 @@ layout: cert_layout
                 <li>Issued: August 2016</li>
                 <li>Certification Authority: Lynda.com</li>
                 <li>License: D21A06D899134C4F950D5A94BB6D0D13</li>
-                <object data="/PDFs/Certs/LearningGitandGitHub.pdf" type="application/pdf" width="700px" height="515px">
-                    <embed src="/PDFs/Certs/LearningGitandGitHub.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/LearningGitandGitHub.pdf">Download PDF</a>.</p>
+                <object data="/Certs/PDFs/LearningGitandGitHub.pdf" type="application/pdf" width="700px" height="515px">
+                    <embed src="/Certs/PDFs/LearningGitandGitHub.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/Certs/PDFs/LearningGitandGitHub.pdf">Download PDF</a>.</p>
                     </embed>
                 </object>
             </div>
@@ -189,8 +186,8 @@ layout: cert_layout
                 <li>Issued: September 2016</li>
                 <li>Certification Authority: Lynda.com</li>
                 <li>License: 7F500FADF79F45CA8F4B5E678486C7B5</li>
-                <object data="/PDFs/Certs/ProgrammingFoundations_SoftwareQualityAssurance.pdf" type="application/pdf" width="700px" height="515px">
-                    <embed src="/PDFs/Certs/ProgrammingFoundations_SoftwareQualityAssurance.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/ProgrammingFoundations_SoftwareQualityAssurance.pdf">Download PDF</a>.</p>
+                <object data="/Certs/PDFs/ProgrammingFoundations_SoftwareQualityAssurance.pdf" type="application/pdf" width="700px" height="515px">
+                    <embed src="/Certs/PDFs/ProgrammingFoundations_SoftwareQualityAssurance.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/Certs/PDFs/ProgrammingFoundations_SoftwareQualityAssurance.pdf">Download PDF</a>.</p>
                     </embed>
                 </object>
             </div>
@@ -209,8 +206,8 @@ layout: cert_layout
 * <a href="#" onclick="toggle_visibility('WinSer12');">Click here to view certificate.</a>
 
 <div id="WinSer12" style="display:none;">
-    <object data="/PDFs/Certs/WindowsServer2012_InstallationandConfiguration.pdf" type="application/pdf" width="700px" height="515px">
-        <embed src="/PDFs/Certs/WindowsServer2012_InstallationandConfiguration.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/PDFs/Certs/WindowsServer2012_InstallationandConfiguration.pdf">Download PDF</a>.</p>
+    <object data="/Certs/PDFs/WindowsServer2012_InstallationandConfiguration.pdf" type="application/pdf" width="700px" height="515px">
+        <embed src="/Certs/PDFs/WindowsServer2012_InstallationandConfiguration.pdf">This browser does not support PDFs. Please download the PDF to view it: <a href="/Certs/PDFs/WindowsServer2012_InstallationandConfiguration.pdf">Download PDF</a>.</p>
         </embed>
     </object>
 </div>
