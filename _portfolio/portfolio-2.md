@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "rluzuriaga.github.io"
+excerpt: "Personal static site using the GitHub pages template from academicpages with a few of my my own customizations.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
