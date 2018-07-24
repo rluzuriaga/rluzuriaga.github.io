@@ -46,7 +46,7 @@ Work experience
 
 * May 2012 - January 2017: IT Technician ~ DM&C Steel Corporation
   * Duties included:
-    * Install, test, upgrade, and migrate workstations, Windows 7 and 10, and software, Microsoft Office 2013/2016, Adobe Acrobat DC, and AutoCAD.
+    * Install, test, upgrade, and migrate workstation's software/OS including: Microsoft Office 2013/2016, Adobe Acrobat DC, and AutoCAD.
     * Configure and maintain computers and network.
     * Basic network and security management; Anti-virus, malware, and adware software installation and management.
     * Over-the-phone technical support.
